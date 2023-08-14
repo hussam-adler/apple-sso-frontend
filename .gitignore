@@ -1,0 +1,11 @@
+# .env file
+.env
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.env/
+
+# redirect_url.py
+redirect_url.py
